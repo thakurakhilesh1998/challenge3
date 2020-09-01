@@ -1,6 +1,6 @@
 import React from 'react';
 import './index.css';
-const date=new Date(2020,8,30,1);
+const date=new Date();
 var hour=date.getHours();
 var msg="";
 var colors="";
